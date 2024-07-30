@@ -89,7 +89,7 @@ namespace StockTracking.Controllers.AccountController
             var result = await _accountService.LogoutAsync();
             return Ok(result);
         }
-
+        [Authorize (Roles="Admin")]
         [HttpPost("add-role")]
         public async Task<IActionResult> AddRole(AddRoleModel addRoleModel)
         {
