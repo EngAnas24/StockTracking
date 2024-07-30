@@ -1,0 +1,12 @@
+C:\Users\anasa\Downloads\StockTracking\StockTracking.Account\obj\Debug\net8.0\StockTracking.Account.csproj.AssemblyReference.cache
+C:\Users\anasa\Downloads\StockTracking\StockTracking.Account\obj\Debug\net8.0\StockTracking.Account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasa\Downloads\StockTracking\StockTracking.Account\obj\Debug\net8.0\StockTracking.Account.AssemblyInfoInputs.cache
+C:\Users\anasa\Downloads\StockTracking\StockTracking.Account\obj\Debug\net8.0\StockTracking.Account.AssemblyInfo.cs
+C:\Users\anasa\Downloads\StockTracking\StockTracking.Account\obj\Debug\net8.0\StockTracking.Account.csproj.CoreCompileInputs.cache
+C:\Users\anasa\Downloads\StockTracking\StockTracking.Account\bin\Debug\net8.0\StockTracking.Account.deps.json
+C:\Users\anasa\Downloads\StockTracking\StockTracking.Account\bin\Debug\net8.0\StockTracking.Account.dll
+C:\Users\anasa\Downloads\StockTracking\StockTracking.Account\bin\Debug\net8.0\StockTracking.Account.pdb
+C:\Users\anasa\Downloads\StockTracking\StockTracking.Account\obj\Debug\net8.0\StockTracking.Account.dll
+C:\Users\anasa\Downloads\StockTracking\StockTracking.Account\obj\Debug\net8.0\refint\StockTracking.Account.dll
+C:\Users\anasa\Downloads\StockTracking\StockTracking.Account\obj\Debug\net8.0\StockTracking.Account.pdb
+C:\Users\anasa\Downloads\StockTracking\StockTracking.Account\obj\Debug\net8.0\ref\StockTracking.Account.dll
